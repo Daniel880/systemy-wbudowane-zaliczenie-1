@@ -3,6 +3,7 @@ include "student_output.h"
 #include <iostream>
 void print_student_output(){
 	std::cout<<"Hello World!"<<std::endl;
+	std::cout << :"imie i nazwisko:" << JakubJedrzejczak << std::endl;
 }
 
 
