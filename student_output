@@ -1,8 +1,8 @@
 include "student_output.h"
 #include "systemy_info.h
 #include <iostream>
-
-coid print_student_output(){
+void print_student_output(){
 	std::cout<<"Hello World!"<<std::endl;
 }
+
 
