@@ -7,6 +7,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(zaliczenie
     src/main.cpp
+    src/student_output.cpp
     src/system_info.cpp
 )
 
