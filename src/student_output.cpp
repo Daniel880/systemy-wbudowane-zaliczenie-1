@@ -10,5 +10,5 @@ void print_student_output(){
     std::cout<<"Imie i Nazwisko: "<<"MariaSzulc"<<std::endl;
     std::cout<<"Nazwa Brancha: "<<branch<<std::endl;
     std::cout<<"IP: "<<ip<<std::endl;
-    std::cout<<"machine_ID"<<machine<<std::endl;
+    std::cout<<"machine_ID: "<<machine<<std::endl;
 }
