@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/zaliczenie.dir/link.d CMakeFiles/zaliczenie.dir/main.cpp.o CMakeFiles/zaliczenie.dir/system_info.cpp.o CMakeFiles/zaliczenie.dir/student_output.cpp.o -o zaliczenie
