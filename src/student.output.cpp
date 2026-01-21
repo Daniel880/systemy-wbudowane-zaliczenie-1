@@ -1,4 +1,4 @@
-#include <src.h>
+#include <student_info.h>
 #include <iostream>
 
 void print_student_output(){
