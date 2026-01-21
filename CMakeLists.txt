@@ -5,12 +5,12 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 set(COMMAND_SOURCES
-	src/student_output.cpp
 )
 
 add_executable(zaliczenie
     src/main.cpp
-    src/system_info.cpp
+    src/system_info.cpp	
+    src/student_output.cpp
 )
 
 target_include_directories(zaliczenie PRIVATE include)
