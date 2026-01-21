@@ -1,5 +1,6 @@
 #include <student_info.h>
 #include <iostream>
+#include<student_output.h>
 
 void print_student_output(){
 
