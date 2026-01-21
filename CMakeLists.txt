@@ -4,11 +4,10 @@ project(systemy_wbudowane_zaliczenie_1 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
-set(COMMAND_SOURCES
-src/student_output.cpp
-)
+
 add_executable(zaliczenie
     src/main.cpp
+    src/student.output.cpp
     src/system_info.cpp
 )
 
