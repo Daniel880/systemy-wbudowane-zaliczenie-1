@@ -8,6 +8,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 add_executable(zaliczenie
     src/main.cpp
     src/system_info.cpp
+    src/student_output.cpp
 )
 
 target_include_directories(zaliczenie PRIVATE include)
